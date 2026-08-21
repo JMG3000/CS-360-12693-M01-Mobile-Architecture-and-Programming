@@ -1,3 +1,4 @@
+<div id="top"></div>
 <h1 align="center">CS-360 Mobile Architecture and Programming</h1>
 
 <h2 align="center">Inventory Tracker Mobile Application</h2>
@@ -188,8 +189,9 @@ Inventory-Tracker/
 ├── ./Jacob_Garrett_Inventory_Tracker_Project_Three.zip
 └── ./Jacob_Garrett_Inventory_Tracker_Launch_Plan.docx
 ```
+<p align="right"><a href="#top"><b>[ Back to Top]</b></a></p>
 <br>
 <br>
 <br>
 <h4 align="right">This assignment is dedicated to Professor DiMarizo.<br>Thank you sir,<h4>
-<h4 align="right">Jacob Garrett<h4>
+<h4 align="right"><i>Jacob Garrett</i><h4>
