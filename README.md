@@ -4,8 +4,17 @@
 
 ### Table of Contents
 <!-- toc-start -->
-- [.](.)
+- [Project Summary](Project-summary)
+- [User-Centered UI Design](User-Centered-UI-Design)
+- [Development Approach](Development-Approach)
+- [Testing and Validation](Testing-and-Validation)
+- [Innovation and Problem Solving](Innovation-and-Problem-Solving)
+- [Demonstration of Knowledge and Skills](Demonstration-of-Knowledge-and-Skills)
+- [Technologies and Development Tools](Technologies-and-Development-Tools)
+- [Portfolio Artifacts](Portfolio-Artifacts)
+- [Repository Contents](Repository-Contents)
 <!-- toc-end -->
+
 
 
 
