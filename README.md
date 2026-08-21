@@ -1,6 +1,12 @@
 <h1 align="center">CS-360 Mobile Architecture and Programming</h1>
 
-<h2 align="center">Inventory Tracker Mobile Application<h2>
+<h2 align="center">Inventory Tracker Mobile Application</h2>
+
+### Table of Contents
+
+<!-- toc-start -->
+<!-- toc-end -->
+
 
 ### Project Summary
 
