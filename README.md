@@ -143,8 +143,8 @@ The portfolio artifacts for this course are the completed Project Three Android 
 Together, these artifacts demonstrate the development of Inventory Tracker from its initial user interface design to a functional mobile application with a practical launch strategy.
 
 
-- ./Jacob_Garrett_Inventory_Tracker_App_Code.zip
-- ./Jacob_Garrett_Inventory_Tracker_Launch_Plan.docx
+- [Jacob_Garrett_Inventory_Tracker_App_Code.zip](./Jacob_Garrett_Inventory_Tracker_App_Code.zip)
+- [Jacob_Garrett_Inventory_Tracker_Launch_Plan.docx](./Jacob_Garrett_Inventory_Tracker_Launch_Plan.docx)
 
 
 Together, these artifacts demonstrate experience with:
@@ -171,5 +171,5 @@ Inventory-Tracker/
 └── ./Jacob_Garrett_Inventory_Tracker_Launch_Plan.docx
 ```
 
-<h4 align="right">Final assignment was dedicated to Professor DiMarizo. Thank you sir,<h4>
+<h4 align="right">This assignment was dedicated to Professor DiMarizo.<br>Thank you sir,<h4>
 <h4 align="right">Jacob Garrett<h4>
