@@ -3,9 +3,16 @@
 <h2 align="center">Inventory Tracker Mobile Application</h2>
 
 ### Table of Contents
-
 <!-- toc-start -->
-- [.](.)
+- [Project Summary](Project-summary)
+- [User-Centered UI Design](User-Centered-UI-Design)
+- [Development Approach](Development-Approach)
+- [Testing and Validation](Testing-and-Validation)
+- [Innovation and Problem Solving](Innovation-and-Problem-Solving)
+- [Demonstration of Knowledge and Skills](Demonstration-of-Knowledge-and-Skills)
+- [Technologies and Development Tools](Technologies-and-Development-Tools)
+- [Portfolio Artifacts](Portfolio-Artifacts)
+- [Repository Contents](Repository-Contents)
 <!-- toc-end -->
 
 
@@ -177,6 +184,8 @@ Inventory-Tracker/
 ├── ./Jacob_Garrett_Inventory_Tracker_Project_Three.zip
 └── ./Jacob_Garrett_Inventory_Tracker_Launch_Plan.docx
 ```
-
-<h4 align="right">This assignment was dedicated to Professor DiMarizo.<br>Thank you sir,<h4>
+<br>
+<br>
+<br>
+<h4 align="right">This assignment is dedicated to Professor DiMarizo.<br>Thank you sir,<h4>
 <h4 align="right">Jacob Garrett<h4>
